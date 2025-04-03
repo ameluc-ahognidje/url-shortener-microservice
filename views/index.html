@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="initiale-scale=1.0, width=device-width" />
+		<link rel="stylesheet" href="/public/style.css" type="text/css" />
+		<title>URL Shortener Microservice</title>
+	</head>
+	<body>
+		<div class="frame main-title">URL Shortener Microservice</div>
+		<div class="spacer-horizontal"></div>
+		<div class="frame container">
+			<div class="frame sub-title">URL Shortener</div>
+			<form action="api/shorturl" method="POST">
+				<label for="url_input">URL:</label>
+				<input id="url_input" type="text" name="url" placeholder="https://www.freecodecamp.org/" />
+				<input type="submit" value="POST URL" />
+			</form>
+		</div>
+		<div class="spacer-horizontal"></div>
+		<div class="frame footer">
+			made by Ameluc
+		</div>
+	</body>
+</html>

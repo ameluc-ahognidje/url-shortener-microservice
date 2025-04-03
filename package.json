@@ -1,0 +1,17 @@
+{
+    "name": "ameluc-shorturl",
+	"version": "1.0.0",
+    "author": "Ameluc",
+    "description": "My FCC Backend Challenge",
+    "main": "index.js",
+    "type": "module",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "dotenv": "^16.4.7",
+        "express": "^5.1.0"
+    },
+    "license": "ISC",
+    "scripts": {
+        "start": "node --watch index.js"
+    }
+}
