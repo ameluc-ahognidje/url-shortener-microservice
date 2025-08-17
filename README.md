@@ -5,7 +5,7 @@ A full stack JavaScript app which purpose is to shorten any given url.
 ## Stack
 - JavaScript
 - Express
-- SCSS / CSS
+- CSS
 
 ## Fonctionnalities
 - Shorten any given URL,
@@ -24,7 +24,7 @@ I made this project as part of my [freeCodeCamp](https://www.freecodecamp.org/ce
 - how to reroute from a given URL 
 
 ## Updates
-- Improse UI with React,
+- Improse UI with React and Tailwind CSS,
 - Improve accessibility
 
 ## Licence
