@@ -7,11 +7,11 @@ A full stack JavaScript app which purpose is to shorten any given url.
 - Express
 - CSS
 
-## Fonctionnalities
+## Functionalities
 - Shorten any given URL,
 - Route to the original address when using the short URL
 
-## Installation & Lancement
+## Installation
 1. Open a terminal and clone this repo with the command: `git clone https://github.com/ameluc-ahognidje/url-shortener-microservice.git`,
 2. Then use this command to go in the cloned folder: `cd url-shortener-microservice`,
 3. Install the dependancies with the command: `npm install`,
