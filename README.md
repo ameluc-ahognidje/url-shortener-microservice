@@ -9,7 +9,7 @@ A full stack JavaScript app which purpose is to shorten any given url.
 
 ## Fonctionnalities
 - Shorten any given URL,
-- Route to the original address when using the shor URL
+- Route to the original address when using the short URL
 
 ## Installation & Lancement
 1. Open a terminal and clone this repo with the command: `git clone https://github.com/ameluc-ahognidje/url-shortener-microservice.git`,
